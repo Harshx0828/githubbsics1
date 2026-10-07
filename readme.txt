@@ -1,1 +1,2 @@
-heerei will write git reposortory
+heerei will write git reposortory.
+i am learning the git 
